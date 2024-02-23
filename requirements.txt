@@ -1,0 +1,5 @@
+pyromod
+motor
+pyrogram
+tgcrypto
+dnspython
