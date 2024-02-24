@@ -11,13 +11,3 @@ datetime
 motor
 pymongo[srv]
 
-###Dq
-
-TgCrypto
-pyrogram
-Dnspython
-pyromod
-umongo
-motor
-pytz
-asyncio
