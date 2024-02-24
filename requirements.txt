@@ -2,7 +2,7 @@ git+https://github.com/Lord-JackSparrow/pyropatch
 motor
 TgCrypto
 Dnspython
-
+pyromod
 pyrogram
 tgcrypto
 pytz
