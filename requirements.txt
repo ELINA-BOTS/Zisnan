@@ -1,13 +1,6 @@
 git+https://github.com/Lord-JackSparrow/pyropatch
-motor
-TgCrypto
-Dnspython
 pyromod
+motor
 pyrogram
 tgcrypto
-pytz
-aiohttp
-datetime
-motor
-pymongo[srv]
-
+dnspython
