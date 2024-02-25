@@ -4,3 +4,4 @@ pyrogram
 tgcrypto
 dnspython
 asyncio 
+translation
