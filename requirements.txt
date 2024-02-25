@@ -1,5 +1,4 @@
-git+https://github.com/GamingBeast1/pyropatch
-
+pyromod
 motor
 pyrogram
 tgcrypto
